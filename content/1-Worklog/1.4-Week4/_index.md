@@ -34,5 +34,4 @@ In this week, specific achievements include:
 * Completed automatic backups and received notifications regarding storage changes.
 * Successfully configured CDN with Amazon CloudFront to accelerate content delivery.
 
-**Below are some illustration images during the configuration process:**
 

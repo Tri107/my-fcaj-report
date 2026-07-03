@@ -34,7 +34,6 @@ In this week, specific achievements include:
 * Successfully connected multiple VPCs together via VPC Peering and Transit Gateway.
 * Completed the practice of migrating a virtual machine to the AWS environment.
 
-**Below are some illustration images during the configuration process:**
 
 
 

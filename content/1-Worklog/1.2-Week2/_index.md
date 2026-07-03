@@ -34,7 +34,6 @@ In this week, specific achievements include:
 * Securely connected to EC2 servers via MobaXterm.
 * Successfully configured a VPN connection and utilized CloudFormation to automate the deployment process.
 
-**Below are some illustration images during the configuration process:**
 
 
 

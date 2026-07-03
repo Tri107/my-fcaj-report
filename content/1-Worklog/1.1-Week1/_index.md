@@ -36,7 +36,6 @@ In the first week, I completed setting up the account environment in preparation
 * **Identity Management (IAM):** Securely configured MFA for the Root User, properly assigned permissions using IAM Admin User/Group instead of using Root.
 * **Cost Management (Billing):** Successfully created budget alerts (Budgets), ensuring peace of mind during practice without unexpected overages.
 
-**Below are some illustration images during the configuration process:**
 
 
 
