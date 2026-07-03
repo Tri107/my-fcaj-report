@@ -41,7 +41,7 @@ A Kiro power is a curated package that gives Kiro specialized capabilities in a 
 
 ## The Kiro power for AWS DevOps Agent
 
-![Kiro Power Architecture](/images/2-Proposal/platform_architecture.jpeg)
+![Kiro Power Architecture](/images/3-blogstranslated/3.2-blog2/Architecture-Blog2.png)
 
 The Kiro power for AWS DevOps Agent packages the full capabilities of AWS DevOps Agent into a single install. Features include:
 - **Investigate incidents**: Describe symptoms in natural language, and Kiro orchestrates a deep investigation.

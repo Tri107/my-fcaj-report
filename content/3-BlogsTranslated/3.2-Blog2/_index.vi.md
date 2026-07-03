@@ -39,7 +39,7 @@ Kiro power là một gói được tinh chỉnh mang lại cho Kiro các khả n
 
 ## Kiro power cho AWS DevOps Agent
 
-![Kiro Power Architecture](/images/2-Proposal/platform_architecture.jpeg)
+![Kiro Power Architecture](/images/3-blogstranslated/3.2-blog2/Architecture-Blog2.png)
 
 Gói sức mạnh Kiro cho AWS DevOps Agent tích hợp toàn bộ khả năng của AWS DevOps Agent vào một bản cài đặt duy nhất. Các tính năng bao gồm:
 - **Điều tra sự cố**: Mô tả triệu chứng bằng ngôn ngữ tự nhiên, và Kiro sẽ điều phối một cuộc điều tra chuyên sâu.
