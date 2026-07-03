@@ -1,6 +1,6 @@
 baseURL = "https://tri107.github.io/my-fcaj-report/"
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
