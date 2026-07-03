@@ -22,8 +22,6 @@ The system utilizes AWS Lambda services to automatically collect job information
 The solution moves towards standardizing the entire end-to-end job search and filtering process. Applying practical knowledge from labs and self-research on AWS Cloud architecture helps design a high-performance system with minimal operational costs. The serverless infrastructure platform ensures costs are incurred solely based on actual computational traffic, providing optimal economic efficiency and transparent system scalability in the future.
 
 ### 3. Solution Architecture
-![Platform Architecture](/images/2-Proposal/Jobs-Matching-Platform-Architecture.png)
-
 The platform is built on AWS Serverless architecture principles, divided into independent yet tightly interconnected processing workflows: data ingestion, user interaction, profile analysis, and security operations.
 
 *AWS Services Used*

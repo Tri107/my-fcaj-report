@@ -22,8 +22,6 @@ Hệ thống sử dụng dịch vụ AWS Lambda để tự động thu thập th
 Giải pháp tiến tới chuẩn hóa toàn trình quy trình tìm kiếm và chắt lọc công việc. Việc vận dụng các kiến thức thực tiễn từ các bài thực hành và tự nghiên cứu về kiến trúc AWS Cloud giúp thiết kế hệ thống đạt hiệu suất cao với chi phí vận hành tối thiểu. Nền tảng hạ tầng serverless đảm bảo chi phí chỉ phát sinh dựa trên lưu lượng tính toán thực tế, mang lại hiệu quả kinh tế tối ưu và khả năng mở rộng hệ thống minh bạch trong tương lai.
 
 ### 3. Kiến trúc giải pháp
-![Kiến trúc nền tảng](/images/2-Proposal/Jobs-Matching-Platform-Architecture.png)
-
 Nền tảng được xây dựng dựa trên nguyên tắc kiến trúc AWS Serverless, phân chia thành các luồng xử lý độc lập nhưng có tính liên kết chặt chẽ: thu thập dữ liệu, tương tác người dùng, phân tích hồ sơ và vận hành bảo mật.
 
 

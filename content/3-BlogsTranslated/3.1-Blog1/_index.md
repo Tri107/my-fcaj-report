@@ -15,8 +15,6 @@ This pattern utilizes **Amazon API Gateway** as the access layer in front of Ama
 
 ## Reference Architecture
 
-![AI Gateway Reference Architecture](/images/3-BlogsTranslated/Architecture-Blog1.png)
-
 The architecture provides granular control over Large Language Model (LLM) access using fully managed AWS services. It is transparent to client applications (like AWS SDKs/Boto3) and seamlessly integrates into existing enterprise environments.
 
 The solution consists of five core components:

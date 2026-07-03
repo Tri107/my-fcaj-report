@@ -19,4 +19,4 @@ Workshop sẽ bao gồm các luồng xử lý chính:
 + **Luồng phân tích CV (CV Matching Flow)**: Khi ứng viên tải hồ sơ (CV) lên Amazon S3, sự kiện sẽ tự động kích hoạt Lambda trích xuất văn bản, gọi dịch vụ AI (Gemini) để phân tích, đối chiếu với mô tả công việc và chấm điểm mức độ phù hợp.
 + **Tương tác và bảo mật (User Interaction & Security)**: Giao diện web được lưu trữ trên AWS Amplify. Định danh người dùng bằng Amazon Cognito và bảo vệ toàn bộ RESTful API thông qua AWS WAF kết hợp cùng Amazon API Gateway.
 
-![overview](/images/5-Workshop/5.1-Workshop-overview/Jobs-Matching-Platform-Architecture.png)
+

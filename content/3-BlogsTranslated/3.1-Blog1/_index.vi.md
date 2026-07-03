@@ -15,8 +15,6 @@ Mô hình này sử dụng **Amazon API Gateway** làm lớp truy cập (access 
 
 ## Kiến Trúc Tham Khảo (Reference Architecture)
 
-![Kiến trúc tham khảo AI Gateway](/images/3-BlogsTranslated/Architecture-Blog1.png)
-
 Kiến trúc này cung cấp khả năng kiểm soát chi tiết quyền truy cập vào các Mô hình Ngôn ngữ Lớn (LLM) bằng các dịch vụ được quản lý hoàn toàn của AWS. Nó hoạt động một cách vô hình (transparent) đối với các ứng dụng máy khách (như AWS SDKs/Boto3) và tích hợp liền mạch vào các môi trường doanh nghiệp hiện tại.
 
 Giải pháp bao gồm 5 thành phần cốt lõi:
