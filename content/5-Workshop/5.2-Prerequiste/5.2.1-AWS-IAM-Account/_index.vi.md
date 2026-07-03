@@ -146,7 +146,7 @@ Nhập thẻ mô tả (ví dụ: `NOVA-cli-key`) và nhấn **Create access key*
 ![Access Key Description](/images/5-Workshop/5.2-Prerequisite/5.2.1-AWS-IAM-Account/create-key-confirm.png)
 
 #### 3.4. Lưu thông tin Credentials:
-* Sao chép **Access key ID** và **Secret access key** hoặc nhấn **Download .csv file** để lưu trữ anêu toàn.
+* Sao chép **Access key ID** và **Secret access key** hoặc nhấn **Download .csv file** để lưu trữ an toàn.
 * Nhấn **Done** để hoàn tất.
 
 ![Retrieve Access Key](/images/5-Workshop/5.2-Prerequisite/5.2.1-AWS-IAM-Account/download-key.png)

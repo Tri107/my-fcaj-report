@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Self-Assessment"
 date: 2026-07-02
 weight: 6
@@ -18,7 +18,7 @@ Used EventBridge Scheduler and Lambda to retrieve data automatically.
 Used SQS to buffer and process jobs.
 Utilized Amazon Textract to extract text from PDF files.
 
-through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+Through these practical tasks, I have significantly improved many important skills. Professionally, I enhanced my **programming skills and Serverless architecture design**, while getting familiar with the operation and deployment processes of services on the AWS platform. I also cultivated my **analytical and problem-solving skills** by integrating various services (such as Lambda, SQS, EventBridge, Textract) into an automated processing workflow. Furthermore, regular collaboration with the team helped me refine my **teamwork and communication skills** as well as my **ability to synthesize information and write technical reports** in a more coherent and professional manner.
 
 In terms of work ethic, I always attended fully when approved to go to the office and followed event regulations, and actively engaged with team members to improve work efficiency.
 

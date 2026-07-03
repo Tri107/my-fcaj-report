@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tự đánh giá"
 date: 2026-07-02
 weight: 6
@@ -18,7 +18,7 @@ Dùng EventBridge Schedule và Lambda để lấy dữ liệu tự động
 Dùng SQS để buffer và xử lý các job
 Sử dụng Textract để trích xuất văn bản từ file PDF
 
-qua đó cải thiện kỹ năng **[liệt kê kỹ năng: lập trình, phân tích, viết báo cáo, giao tiếp…]**.  
+Qua các công việc thực tế trên, tôi đã cải thiện đáng kể nhiều kỹ năng quan trọng. Về chuyên môn, tôi nâng cao được **kỹ năng lập trình và thiết kế kiến trúc Serverless**, đồng thời làm quen với quy trình vận hành, triển khai dịch vụ trên nền tảng AWS. Tôi cũng rèn luyện được **kỹ năng phân tích và giải quyết vấn đề** thông qua việc kết nối nhiều dịch vụ khác nhau (như Lambda, SQS, EventBridge, Textract) thành một luồng xử lý tự động. Bên cạnh đó, quá trình phối hợp thường xuyên với team giúp tôi trau dồi **kỹ năng làm việc nhóm, giao tiếp** cũng như **kỹ năng tổng hợp và viết báo cáo kỹ thuật** một cách mạch lạc, chuyên nghiệp hơn.
 
 Về tác phong, tôi luôn tham đầy đủ khi được duyệt lên văn phòng và các event tuân thủ nội quy, và tích cực trao đổi với thành viên nhóm để nâng cao hiệu quả công việc.
 
