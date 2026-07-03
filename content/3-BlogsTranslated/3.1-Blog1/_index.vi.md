@@ -16,7 +16,7 @@ Mô hình này sử dụng **Amazon API Gateway** làm lớp truy cập (access 
 ## Kiến Trúc Tham Khảo (Reference Architecture)
 
 Kiến trúc này cung cấp khả năng kiểm soát chi tiết quyền truy cập vào các Mô hình Ngôn ngữ Lớn (LLM) bằng các dịch vụ được quản lý hoàn toàn của AWS. Nó hoạt động một cách vô hình (transparent) đối với các ứng dụng máy khách (như AWS SDKs/Boto3) và tích hợp liền mạch vào các môi trường doanh nghiệp hiện tại.
-
+![Design Architecture](/images/3-BlogTranslated/3.1-blog1/Architecture-Blog1.png)
 Giải pháp bao gồm 5 thành phần cốt lõi:
 1. **Amazon Route 53 (Tùy chọn):** Quản lý định tuyến tên miền tùy chỉnh, cho phép máy khách truy cập gateway thông qua endpoint riêng của công ty.
 2. **Amazon API Gateway:** Đóng vai trò là điểm vào (entry point) chính, cung cấp các khả năng như kiểm soát lưu lượng (throttling), API keys và quản lý vòng đời.

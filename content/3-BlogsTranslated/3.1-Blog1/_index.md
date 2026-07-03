@@ -16,7 +16,7 @@ This pattern utilizes **Amazon API Gateway** as the access layer in front of Ama
 ## Reference Architecture
 
 The architecture provides granular control over Large Language Model (LLM) access using fully managed AWS services. It is transparent to client applications (like AWS SDKs/Boto3) and seamlessly integrates into existing enterprise environments.
-
+![Design Architecture](/images/3-BlogTranslated/3.1-blog1/Architecture-Blog1.png)
 The solution consists of five core components:
 1. **Amazon Route 53 (Optional):** Manages custom domain routing, allowing clients to access the gateway through a company-specific endpoint.
 2. **Amazon API Gateway:** Serves as the main entry point, providing capabilities like request throttling, API keys, and lifecycle management.

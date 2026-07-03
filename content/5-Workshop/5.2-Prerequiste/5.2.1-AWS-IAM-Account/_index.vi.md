@@ -35,7 +35,7 @@ Xác nhận group đã được tạo thành công.
 #### 1.5. Mở phần Permissions của group:
 Chọn nhóm vừa tạo (`NOVA-team`) và chuyển sang tab **Permissions**.
 
-![Open Group Permissions](/images/5-Workshop/5.2-Prerequisite/5.2.1-AWS-IAM-Account/2.6-group-permissions-tab.png)
+![Open Group Permissions](/images/5-Workshop/5.2-Prerequisite/5.2.1-AWS-IAM-Account/create-inline-policy.png)
 
 #### 1.6. Thêm role:
 Nhấn vào nút **Add permissions** và chọn **Create inline policy**.

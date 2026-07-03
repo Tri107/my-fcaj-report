@@ -36,7 +36,7 @@ Verify that the group has been successfully created.
 #### 1.5. Open Group Permissions:
 Select the newly created group (`NOVA-team`) and navigate to the **Permissions** tab.
 
-![Open Group Permissions](/images/5-Workshop/5.2-Prerequisite/5.2.1-AWS-IAM-Account/2.6-group-permissions-tab.png)
+![Open Group Permissions](/images/5-Workshop/5.2-Prerequisite/5.2.1-AWS-IAM-Account/create-inline-policy.png)
 
 #### 1.6. Add Permission:
 Click **Add permissions** and select **Create inline policy**.
