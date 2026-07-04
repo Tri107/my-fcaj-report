@@ -30,6 +30,6 @@ Chương trình thực tập được hoàn thành trong vòng **12 tuần** (kh
 
 **Tuần 10:** [Tích hợp Amazon Textract đánh giá CV tự động và thiết lập AWS WAF](1.10-week10/)
 
-**Tuần 11:** [Kiểm thử, tối ưu hệ thống và chỉnh sửa giao diện, chuẩn bị báo cáo](1.11-week11/)
+**Tuần 11:** [Kiểm thử, tối ưu hệ thống và chỉnh sửa giao diện, hoàn thiện báo cáo](1.11-week11/)
 
-**Tuần 12:** [Hoàn thiện báo cáo và báo cáo tổng kết khóa thực tập](1.12-week12/)
+**Tuần 12:** [Tổng kết khóa thực tập](1.12-week12/)

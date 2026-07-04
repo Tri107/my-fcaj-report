@@ -4,10 +4,6 @@ date: 2026-07-02
 weight: 1
 chapter: false
 ---
-
-    
-# Internship Report
-
 ### Student Information:
 &emsp; **Full Name:**  Nguyen Minh Tri
 
@@ -38,3 +34,6 @@ chapter: false
 5.  [Workshop](5-Workshop/)
 6.  [Self-evaluation](6-Self-evaluation/)
 7.  [Sharing and Feedback](7-Feedback/)
+
+[report](https://github.com/Tri107/my-fcaj-report)
+[team project](https://github.com/Tri107/Jobs-Matching-Platform)

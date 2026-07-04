@@ -4,8 +4,6 @@ date: 2026-07-02
 weight: 1
 chapter: false
 ---
-
-# Báo cáo thực tập
 ### Thông tin sinh viên:
 &emsp; **Họ và tên:** Nguyễn Minh Trí
 
@@ -38,3 +36,6 @@ chapter: false
 5.  [Workshop](5-Workshop/)
 6.  [Tự đánh giá](6-Self-evaluation/)
 7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+
+[báo cáo](https://github.com/Tri107/my-fcaj-report)
+[dự án nhóm](https://github.com/Tri107/Jobs-Matching-Platform)
