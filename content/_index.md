@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Internship Report"
 date: 2026-07-02
 weight: 1
@@ -35,5 +35,6 @@ chapter: false
 6.  [Self-evaluation](6-Self-evaluation/)
 7.  [Sharing and Feedback](7-Feedback/)
 
-[report](https://github.com/Tri107/my-fcaj-report)
-[team project](https://github.com/Tri107/Jobs-Matching-Platform)
+**Report:** https://github.com/Tri107/my-fcaj-report
+
+**Team project:** https://github.com/Tri107/Jobs-Matching-Platform

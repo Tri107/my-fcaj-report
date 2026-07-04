@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Báo cáo thực tập"
 date: 2026-07-02
 weight: 1
@@ -37,5 +37,6 @@ chapter: false
 6.  [Tự đánh giá](6-Self-evaluation/)
 7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
 
-[báo cáo](https://github.com/Tri107/my-fcaj-report)
-[dự án nhóm](https://github.com/Tri107/Jobs-Matching-Platform)
+**Báo cáo:** https://github.com/Tri107/my-fcaj-report
+
+**Dự án nhóm:** https://github.com/Tri107/Jobs-Matching-Platform

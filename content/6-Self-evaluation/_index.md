@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **[Amazon Web Services Vietnam Co., Ltd.]** from **[April 17, 2026]** to **[July 12, 2026]**, I had the opportunity to learn and practice my knowledge of cloud computing environments. Besides self-study, I also gained further knowledge shared by the admins and speakers during events organized by the program.
+During my internship at **Amazon Web Services Vietnam Co., Ltd.** from **April 17, 2026** to **July 12, 2026**, I had the opportunity to learn and practice my knowledge of cloud computing environments. Besides self-study, I also gained further knowledge shared by the admins and speakers during events organized by the program.
 My team and I participated in building a platform that automatically aggregates jobs and allows users to evaluate whether a CV is suitable for a job using AI.
 
 Regarding contributions to the project:

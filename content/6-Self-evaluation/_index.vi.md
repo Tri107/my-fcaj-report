@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại **[Công ty TNHH Amazon Web Services Vietnam]** từ **[17/4/2026]** đến **[12/7/2026]**, tôi đã có cơ hội học hỏi, rèn luyện về các kiến thức của môi trường điện toán đám mây. Ngoài việc tự tìm hiểu, bản thân còn được chia sẻ các kiến thức thêm từ các anh/chị admin hay các diễn giả qua các buổi event do chương trình tổ chức.
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Vietnam** từ **17/4/2026** đến **12/7/2026**, tôi đã có cơ hội học hỏi, rèn luyện về các kiến thức của môi trường điện toán đám mây. Ngoài việc tự tìm hiểu, bản thân còn được chia sẻ các kiến thức thêm từ các anh/chị admin hay các diễn giả qua các buổi event do chương trình tổ chức.
 Tôi và nhóm đã tham gia việc xây dựng một nền tảng tự động thu thập việc làm và cho phép người dùng đánh giá CV có phù hợp với các công việc không thông qua AI.
 
 Về đóng góp trong dự án: 
