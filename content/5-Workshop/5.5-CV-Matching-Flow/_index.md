@@ -25,7 +25,7 @@ User action on frontend
   -> Store result in DynamoDB Match Results table
 ```
 
-![CV Matching Flow Architecture](/images/5-Workshop/5.5-CV-Matching-Flow/5-cv-matching-architecture.png)
+![CV Matching Flow Architecture](/images/5-Workshop/5.5-CV-Matching-Flow/Jobs-Matching-Platform.drawio.png)
 
 ## Implementation references
 
