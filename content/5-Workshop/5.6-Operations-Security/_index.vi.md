@@ -10,7 +10,7 @@ pre : " <b> 5.6. </b> "
 
 Phần này đề cập đến các mối quan tâm xuyên suốt áp dụng cho toàn bộ nền tảng Jobs Matching Platform. Trong khi các phần trước tập trung vào việc xây dựng từng phân hệ riêng lẻ (Jobs Ingestion, User Interaction, CV Matching Flow), phần này đảm bảo nền tảng vận hành **an toàn**, **có khả năng giám sát**, và **tối ưu chi phí**.
 
-![Kiến trúc Vận hành & Bảo mật](/images/2-Proposal/Jobs-Matching-Platform -v3.drawio.png)
+![Kiến trúc Vận hành & Bảo mật](/images/2-Proposal/Jobs-Matching-Platform-v3.drawio.png)
 
 Trong sơ đồ kiến trúc, tầng dưới cùng — **Cost, Security, Operation** — trải rộng trên cả ba phân hệ chức năng. Nó bao gồm bốn trụ cột chính:
 

@@ -19,4 +19,4 @@ The workshop consists of these main workflows:
 + **User Interaction & Security**: The front-end web application is hosted on AWS Amplify. User authentication is managed by Amazon Cognito, and all RESTful APIs are securely distributed and protected by AWS WAF combined with Amazon API Gateway.
 
 
-![Design Architecture](/images/2-Proposal/Jobs-Matching-Platform -v3.drawio.png)
+![Design Architecture](/images/2-Proposal/Jobs-Matching-Platform-v3.drawio.png)

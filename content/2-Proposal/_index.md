@@ -23,7 +23,7 @@ The solution moves towards standardizing the entire end-to-end job search and fi
 
 ### 3. Solution Architecture
 The platform is built on AWS Serverless architecture principles, divided into independent yet tightly interconnected processing workflows: data ingestion, user interaction, profile analysis, and security operations.
-![Design Architecture](/images/2-Proposal/Jobs-Matching-Platform -v3.drawio.png)
+![Design Architecture](/images/2-Proposal/Jobs-Matching-Platform-v3.drawio.png)
 
 *AWS Services Used*
 - *AWS EventBridge Scheduler*: Schedules automated triggers for job data retrieval from SerpApi.
