@@ -1,4 +1,4 @@
-﻿---
+---
 title : "Giới thiệu"
 date : 2026-07-02 
 weight : 1
@@ -20,4 +20,4 @@ Workshop sẽ bao gồm các luồng xử lý chính:
 + **Tương tác và bảo mật (User Interaction & Security)**: Giao diện web được lưu trữ trên AWS Amplify. Định danh người dùng bằng Amazon Cognito và bảo vệ toàn bộ RESTful API thông qua AWS WAF kết hợp cùng Amazon API Gateway.
 
 
-![Design Architecture](/images/2-Proposal/Jobs-Matching-Platform.drawio.png)
+![Design Architecture](/images/2-Proposal/Jobs-Matching-Platform -v3.drawio.png)

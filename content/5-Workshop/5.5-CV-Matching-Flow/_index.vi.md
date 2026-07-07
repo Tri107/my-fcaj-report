@@ -25,7 +25,7 @@ User action trên frontend
   -> Lưu kết quả vào DynamoDB Match Results table
 ```
 
-![Luồng kiến trúc CV Matching](/images/5-Workshop/5.5-CV-Matching-Flow/Jobs-Matching-Platform.drawio.png)
+![Luồng kiến trúc CV Matching](/images/5-Workshop/5.5-CV-Matching-Flow/Jobs-Matching-Platform -v3.drawio.png)
 
 ## Thông tin implementation
 

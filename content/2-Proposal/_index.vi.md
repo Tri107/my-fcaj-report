@@ -14,7 +14,7 @@ Jobs Matching Platform được thiết kế bởi nhóm NOVA nhằm tự độn
 ### 2. Tuyên bố vấn đề
 *Vấn đề hiện tại*
 Quá trình tìm kiếm thông tin tuyển dụng trên nhiều nền tảng phân tán hiện nay đòi hỏi lượng lớn thời gian và thao tác thủ công. Người tìm việc thường gặp trở ngại trong việc tự đánh giá khách quan và chính xác mức độ phù hợp của năng lực cá nhân đối với yêu cầu cụ thể của từng mô tả công việc, đặc biệt là với các bộ kỹ năng chuyên sâu như lập trình hay quản trị hạ tầng đám mây.
-![Design Architecture](/images/2-Proposal/Jobs-Matching-Platform.drawio.png)
+![Design Architecture](/images/2-Proposal/Jobs-Matching-Platform -v3.drawio.png)
 *Giải pháp*
 Hệ thống sử dụng dịch vụ AWS Lambda để tự động thu thập thông tin công việc qua SerpApi, điều phối và kiểm soát luồng dữ liệu thông qua Amazon SQS, sau đó lưu trữ có cấu trúc tại Amazon DynamoDB. Phân hệ tương tác người dùng được bảo vệ bởi tường lửa AWS WAF và quản lý xác thực qua Amazon Cognito. Luồng phân tích CV tự động trích xuất văn bản từ tài liệu được tải lên Amazon S3, tiếp nối bằng việc tích hợp dịch vụ AI để đối chiếu, phân tích ngữ nghĩa và chấm điểm mức độ phù hợp. Toàn bộ quy trình phát triển và quản lý tác vụ phần mềm được vận hành chặt chẽ thông qua Jira, kết hợp kiểm soát phiên bản mã nguồn trên GitHub.
 

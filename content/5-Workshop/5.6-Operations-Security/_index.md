@@ -10,7 +10,7 @@ pre : " <b> 5.6. </b> "
 
 This section covers the cross-cutting concerns that apply to the entire Jobs Matching Platform. While the previous sections focused on building individual subsystems (Jobs Ingestion, User Interaction, CV Matching Flow), this section ensures the platform runs **securely**, is **observable**, and remains **cost-effective**.
 
-![Operations & Security Architecture](/images/2-Proposal/Jobs-Matching-Platform.drawio.png)
+![Operations & Security Architecture](/images/2-Proposal/Jobs-Matching-Platform -v3.drawio.png)
 
 In the architecture diagram, the bottom layer — **Cost, Security, Operation** — spans across all three functional subsystems. It consists of four key pillars:
 
